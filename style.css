@@ -1,0 +1,13 @@
+header{
+height:100vh;
+background:linear-gradient(135deg,#0d6efd,#6610f2);
+}
+
+body.dark{
+background:#121212;
+color:white;
+}
+
+html{
+scroll-behavior:smooth;
+}
