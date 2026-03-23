@@ -13,5 +13,8 @@ CV responsive desarrollado con Bootstrap, JavaScript y jQuery.
 ## Demo
 Subir a GitHub Pages
 
+## Link GitHub
+https://github.com/OscarOVSA/CV
+
 ## Link de CV
 https://oscarovsa.github.io/CV/
